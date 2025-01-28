@@ -1,4 +1,4 @@
-# Evently App 📱
+# 📱 Evently App
 
 Evently is a mobile application designed to provide a seamless platform for discovering, joining, and managing events in Al Khobar City, Saudi Arabia. Users can easily browse through upcoming events, view detailed information such as dates, locations, and descriptions, with just a few taps.
 
