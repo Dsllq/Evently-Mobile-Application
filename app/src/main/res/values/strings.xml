@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Evently  App</string>
+    <string name="google_maps_api_key">AIzaSyCHDoqs3tqfcWTynHT5djlosZC9AzxbEIU</string>
+
+    <string name="change_txt">Change</string>
+    <string name="close_txt">Cancel</string>
+    <string name="login">Login</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="notmember">Not a member?</string>
+    <string name="Register">Sing Up</string>
+    <string name="blank_error">Please fill in the required fields!</string>
+    <string name="succes_login">Signed in. You are being redirected!</string>
+    <string name="change_pass">Change Password</string>
+    <string name="home">Event</string>
+    <string name="abput">Home</string>
+    <string name="admin">Admin</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_message">Welcome to Evently app</string>
+    <string-array name="spinner_values">
+        <item>Visitor</item>
+        <item>Editor</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listview">List View</string>
+    <string name="EditorList">Editor List</string>
+
+</resources>

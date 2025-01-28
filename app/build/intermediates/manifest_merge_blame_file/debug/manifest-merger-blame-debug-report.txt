@@ -1,0 +1,340 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.evently.eventlyapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:8:22-78
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+19
+20    <queries>
+20-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+21
+22        <!-- Needs to be explicitly declared on Android R+ -->
+23        <package android:name="com.google.android.apps.maps" />
+23-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+23-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+24    </queries>
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.evently.eventlyapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.evently.eventlyapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:10:5-87:19
+33        android:allowBackup="true"
+33-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:11:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] /Users/mac/.gradle/caches/transforms-3/9135e4d9c2a282078b07c1afcd3eea91/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:12:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:13:9-54
+39        android:icon="@mipmap/ic_launcher"
+39-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:14:9-43
+40        android:label="@string/app_name"
+40-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:15:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:16:9-54
+42        android:supportsRtl="true"
+42-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:17:9-35
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme" >
+44-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:18:9-40
+45        <activity
+45-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:20:9-24:48
+46            android:name="com.evently.eventlyapp.Activities.AdminActivity"
+46-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:21:13-53
+47            android:exported="false"
+47-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:22:13-37
+48            android:label="Super Admin Panel"
+48-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:23:13-46
+49            android:theme="@style/AppTheme3" />
+49-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:24:13-45
+50        <activity
+50-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:25:9-30:55
+51            android:name="com.evently.eventlyapp.Activities.EditorEventEditActivity"
+51-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:26:13-63
+52            android:exported="false"
+52-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:27:13-37
+53            android:label="Edit Event"
+53-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:28:13-39
+54            android:theme="@style/AppTheme3"
+54-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:29:13-45
+55            android:windowSoftInputMode="adjustPan" />
+55-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:30:13-52
+56
+57        <meta-data
+57-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:33:9-35:59
+58            android:name="com.google.android.geo.API_KEY"
+58-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:34:13-58
+59            android:value="@string/google_maps_api_key" />
+59-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:35:13-56
+60
+61        <activity
+61-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:37:9-42:55
+62            android:name="com.evently.eventlyapp.Activities.AddEventActivity"
+62-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:38:13-56
+63            android:exported="false"
+63-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:39:13-37
+64            android:label="Add New Event"
+64-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:40:13-42
+65            android:theme="@style/AppTheme3"
+65-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:41:13-45
+66            android:windowSoftInputMode="adjustPan" />
+66-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:42:13-52
+67        <activity
+67-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:43:9-47:48
+68            android:name="com.evently.eventlyapp.Activities.EditorActivity"
+68-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:44:13-54
+69            android:exported="false"
+69-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:45:13-37
+70            android:label="Editor Admin Panel"
+70-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:46:13-47
+71            android:theme="@style/AppTheme2" />
+71-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:47:13-45
+72        <activity
+72-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:48:9-50:40
+73            android:name="com.evently.eventlyapp.Activities.MainActivity"
+73-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:49:13-52
+74            android:exported="false" />
+74-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:50:13-37
+75        <activity
+75-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:51:9-61:20
+76            android:name="com.evently.eventlyapp.Activities.LoginActivity"
+76-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:52:13-53
+77            android:exported="true" >
+77-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:53:13-36
+78
+79            <!-- <intent-filter> -->
+80            <!-- <action android:name="android.intent.action.MAIN" /> -->
+81
+82
+83            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+84            <!-- </intent-filter> -->
+85        </activity>
+86        <activity android:name="com.evently.eventlyapp.Activities.ProfileActivity" />
+86-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:62:9-64
+86-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:62:19-61
+87        <activity android:name="com.evently.eventlyapp.Activities.RegisterActivity" />
+87-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:63:9-65
+87-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:63:19-62
+88        <activity android:name="com.evently.eventlyapp.Activities.VisitorHomeActivity" />
+88-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:64:9-68
+88-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:64:19-65
+89        <activity android:name="com.evently.eventlyapp.Activities.EditorHomeActivity" />
+89-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:65:9-67
+89-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:65:19-64
+90        <activity android:name="com.evently.eventlyapp.Activities.AdminHomeActivity" />
+90-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:66:9-66
+90-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:66:19-63
+91        <activity
+91-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:67:9-75:20
+92            android:name="com.evently.eventlyapp.Activities.WelcomeActivity"
+92-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:68:13-55
+93            android:exported="true" >
+93-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:69:13-36
+94            <intent-filter>
+94-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:70:13-74:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:71:17-69
+95-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:71:25-66
+96
+97                <category android:name="android.intent.category.LAUNCHER" />
+97-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:73:17-77
+97-->/Users/mac/Downloads/EventlyApp/app/src/main/AndroidManifest.xml:73:27-74
+98            </intent-filter>
+99        </activity>
+100
+101        <!-- <activity -->
+102        <!-- android:name="com.iaunetwork.MapTestActivity" -->
+103        <!-- android:exported="true"> -->
+104        <!-- <intent-filter> -->
+105        <!-- <action android:name="android.intent.action.MAIN" /> -->
+106
+107
+108        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+109        <!-- </intent-filter> -->
+110        <!-- </activity> -->
+111        <activity
+111-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:27:9-44:20
+112            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+112-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:28:13-80
+113            android:excludeFromRecents="true"
+113-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:29:13-46
+114            android:exported="true"
+114-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:30:13-36
+115            android:launchMode="singleTask"
+115-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:31:13-44
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+116-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:32:13-72
+117            <intent-filter>
+117-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:33:13-43:29
+118                <action android:name="android.intent.action.VIEW" />
+118-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:17-69
+118-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:25-66
+119
+120                <category android:name="android.intent.category.DEFAULT" />
+120-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:17-76
+120-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:27-73
+121                <category android:name="android.intent.category.BROWSABLE" />
+121-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:17-78
+121-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:27-75
+122
+123                <data
+123-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:39:17-42:51
+124                    android:host="firebase.auth"
+124-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:40:21-49
+125                    android:path="/"
+125-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:41:21-37
+126                    android:scheme="genericidp" />
+126-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:42:21-48
+127            </intent-filter>
+128        </activity>
+129        <activity
+129-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:45:9-62:20
+130            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+130-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:46:13-79
+131            android:excludeFromRecents="true"
+131-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:47:13-46
+132            android:exported="true"
+132-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:48:13-36
+133            android:launchMode="singleTask"
+133-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:49:13-44
+134            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+134-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:50:13-72
+135            <intent-filter>
+135-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:51:13-61:29
+136                <action android:name="android.intent.action.VIEW" />
+136-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:17-69
+136-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:34:25-66
+137
+138                <category android:name="android.intent.category.DEFAULT" />
+138-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:17-76
+138-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:36:27-73
+139                <category android:name="android.intent.category.BROWSABLE" />
+139-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:17-78
+139-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:37:27-75
+140
+141                <data
+141-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:39:17-42:51
+142                    android:host="firebase.auth"
+142-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:40:21-49
+143                    android:path="/"
+143-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:41:21-37
+144                    android:scheme="recaptcha" />
+144-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:42:21-48
+145            </intent-filter>
+146        </activity>
+147
+148        <service
+148-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:64:9-70:19
+149            android:name="com.google.firebase.components.ComponentDiscoveryService"
+149-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:65:13-84
+150            android:directBootAware="true"
+150-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:35:13-43
+151            android:exported="false" >
+151-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:66:13-37
+152            <meta-data
+152-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:67:13-69:85
+153                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+153-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:68:17-109
+154                android:value="com.google.firebase.components.ComponentRegistrar" />
+154-->[com.google.firebase:firebase-auth:21.0.3] /Users/mac/.gradle/caches/transforms-3/ac0c0914a10e2841cd7ed83ac03a1484/transformed/firebase-auth-21.0.3/AndroidManifest.xml:69:17-82
+155            <meta-data
+155-->[com.google.firebase:firebase-database:20.0.4] /Users/mac/.gradle/caches/transforms-3/8b999f404f0396f37ec6a916a1510da5/transformed/firebase-database-20.0.4/AndroidManifest.xml:32:13-34:85
+156                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+156-->[com.google.firebase:firebase-database:20.0.4] /Users/mac/.gradle/caches/transforms-3/8b999f404f0396f37ec6a916a1510da5/transformed/firebase-database-20.0.4/AndroidManifest.xml:33:17-109
+157                android:value="com.google.firebase.components.ComponentRegistrar" />
+157-->[com.google.firebase:firebase-database:20.0.4] /Users/mac/.gradle/caches/transforms-3/8b999f404f0396f37ec6a916a1510da5/transformed/firebase-database-20.0.4/AndroidManifest.xml:34:17-82
+158        </service> <!-- Needs to be explicitly declared on P+ -->
+159        <uses-library
+159-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+160            android:name="org.apache.http.legacy"
+160-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+161            android:required="false" />
+161-->[com.google.android.gms:play-services-maps:18.1.0] /Users/mac/.gradle/caches/transforms-3/06870f3e65d50ac7ef864aa90ce7b26f/transformed/play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+162
+163        <provider
+163-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
+164            android:name="com.google.firebase.provider.FirebaseInitProvider"
+164-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:27:13-77
+165            android:authorities="com.evently.eventlyapp.firebaseinitprovider"
+165-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:28:13-72
+166            android:directBootAware="true"
+166-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:29:13-43
+167            android:exported="false"
+167-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:30:13-37
+168            android:initOrder="100" />
+168-->[com.google.firebase:firebase-common:20.1.0] /Users/mac/.gradle/caches/transforms-3/ba2950eec2321daa9dc1903809f0ecea/transformed/firebase-common-20.1.0/AndroidManifest.xml:31:13-36
+169
+170        <activity
+170-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-3/8baef690aed9ecf15d6f91f56b70a510/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+171            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+171-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-3/8baef690aed9ecf15d6f91f56b70a510/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+172            android:exported="false"
+172-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-3/8baef690aed9ecf15d6f91f56b70a510/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+173            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+173-->[com.google.android.gms:play-services-base:18.0.1] /Users/mac/.gradle/caches/transforms-3/8baef690aed9ecf15d6f91f56b70a510/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+174
+175        <meta-data
+175-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-3/3cde68e389b70561def092df48da40c6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+176            android:name="com.google.android.gms.version"
+176-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-3/3cde68e389b70561def092df48da40c6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+177            android:value="@integer/google_play_services_version" />
+177-->[com.google.android.gms:play-services-basement:18.0.0] /Users/mac/.gradle/caches/transforms-3/3cde68e389b70561def092df48da40c6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+178
+179        <provider
+179-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+180            android:name="androidx.startup.InitializationProvider"
+180-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+181            android:authorities="com.evently.eventlyapp.androidx-startup"
+181-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+182            android:exported="false" >
+182-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+183            <meta-data
+183-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+184                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+184-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+185                android:value="androidx.startup" />
+185-->[androidx.emoji2:emoji2:1.2.0] /Users/mac/.gradle/caches/transforms-3/050bb792b14b8a2a998fa6c01e6f7bbe/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+186            <meta-data
+186-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mac/.gradle/caches/transforms-3/b1da8d085a90e830302deeff34ada863/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+187                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+187-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mac/.gradle/caches/transforms-3/b1da8d085a90e830302deeff34ada863/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+188                android:value="androidx.startup" />
+188-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mac/.gradle/caches/transforms-3/b1da8d085a90e830302deeff34ada863/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+189        </provider>
+190    </application>
+191
+192</manifest>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/artico_bold"
+                android:text="Merry Cristmiss"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/imgDelete"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="0"
+                app:srcCompat="@drawable/baseline_delete_24" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/artico_regular"
+            android:maxLength="150"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget felis eu ante eleifend viverra vel eu neque. Curabitur tristique mauris in libero consectetur, ut varius ipsum finibus. Aenean vel scelerisque dolor, ac tristique lacus. Fusce a justo a felis bibendum lacinia. Sed at condimentum nunc. In hac habitasse platea dictumst. Sed vitae massa at nisi rutrum viverra sit amet sed lacus. Ut aliquet odio sed nisi luctus scelerisque. Quisque malesuada interdum lacus, ut fermentum enim iaculis a. Nunc pulvinar consectetur sem, non dignissim nisi auctor non. Aliquam erat volutpat. Vivamus sed nulla nec enim auctor fermentum nec in ligula. Suspendisse sit amet faucibus turpis. Aliquam at metus vitae dolor finibus tristique sit amet nec metus. Nullam vestibulum eu nulla ut interdum. Proin vitae mauris ac felis luctus pellentesque."
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/artico_regular"
+            android:text="31 May 2023"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

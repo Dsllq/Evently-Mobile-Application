@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#8599B6</color>
+    <color name="purple_700">#3A414A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<color name="darkGray">#FF4A4A4A</color>
+    <color name="primaryDarkColor">#2145a4</color>
+    <color name="textColorSecondary">#4f46c2</color>
+    <color name="squareColor"> #8339D1</color>
+    <color name="titelColor">#AD86D6</color>
+    <color name="menuDisable">#DBD5F4</color>
+    <color name="menuEnable">#003366</color>
+    <color name="textColor">#FFF</color>
+    <color name="transparent">#003700B3</color>
+    <color name="editTextBG">#683CCD</color>
+
+</resources>

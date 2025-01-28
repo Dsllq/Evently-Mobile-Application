@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_welcome.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_layout_student_event.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/layout_student_event.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_list_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_list_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_circle.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_logo.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/logo.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_app_registration_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_app_registration_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_layout_editor_list.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/layout_editor_list.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_event_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_event_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_visitor_home.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_visitor_home.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_admin_panel_settings_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_admin_panel_settings_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_map_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_map_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_custom_info_window.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/custom_info_window.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_square.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/square.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_layout_editor_event.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/layout_editor_event.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_logo1.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_main.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_main.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_admin.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_textsms_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_textsms_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_event.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/event.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_homw.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_homw.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_evently.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/evently.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_register.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_vec_home.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/vec_home.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_button_editor.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/button_editor.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_circle_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/raw_map_style.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/raw/map_style.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_fragment_maps.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/raw_animation_file.json.flat",
+        "source": "com.evently.eventlyapp-main-36:/raw/animation_file.json"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_admin_home.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_calendar1.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_calendar1.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_fragment_home.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_active_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/active_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_edit_note_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_edit_note_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_custom_dialog.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_card_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/font_artico_regular.otf.flat",
+        "source": "com.evently.eventlyapp-main-36:/font/artico_regular.otf"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_background_gradient.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_editor.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_profile.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_button_admin.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/button_admin.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_transparent_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/transparent_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_rounded_image_background.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/rounded_image_background.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_editor_home.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_editor_home.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_calendar.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_calendar.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_custom_dialog_clubs.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/custom_dialog_clubs.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_layout_announcement.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/layout_announcement.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/font_artico_bold.otf.flat",
+        "source": "com.evently.eventlyapp-main-36:/font/artico_bold.otf"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_map_test.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_map_test.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/layout_activity_add_event.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_button_student.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/button_student.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.evently.eventlyapp-main-36:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_ic_placeholder.png.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/ic_placeholder.png"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_button_register.xml.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/button_register.xml"
+    },
+    {
+        "merged": "com.evently.eventlyapp-merged_res-34:/drawable_background_image.jpg.flat",
+        "source": "com.evently.eventlyapp-main-36:/drawable/background_image.jpg"
+    }
+]

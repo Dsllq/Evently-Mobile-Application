@@ -1,0 +1,22 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24">
+
+    <!-- الإطار الأساسي للتقويم -->
+    <path
+        android:fillColor="#2145A4"
+        android:pathData="M3,4h18c1.1,0,2,0.9,2,2v14c0,1.1,-0.9,2,-2,2H3c-1.1,0,-2,-0.9,-2,-2V6c0,-1.1,0.9,-2,2,-2zM3,8v12h18V8H3z" />
+
+    <!-- الخطوط التي تمثل أيام التقويم -->
+    <path
+        android:fillColor="#2145A4"
+        android:pathData="M5,10h2v2H5zM9,10h2v2H9zM13,10h2v2h-2zM17,10h2v2h-2zM5,14h2v2H5zM9,14h2v2H9zM13,14h2v2h-2zM17,14h2v2h-2z" />
+
+    <!-- علامة الحدث داخل التقويم (استبدال الدائرة بمسار دائري) -->
+    <path
+        android:fillColor="#2145A4"
+        android:pathData="M12,10.5a1.5,1.5 0 1,0 0,3a1.5,1.5 0 1,0 0,-3z" />
+</vector>
